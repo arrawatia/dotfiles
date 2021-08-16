@@ -1,0 +1,7 @@
+[user]
+	name = arrawatia
+	email = sumit.arrawatia@gmail.com
+
+[help]
+	# Automatically correct and execute mistyped commands
+	autocorrect = 1
